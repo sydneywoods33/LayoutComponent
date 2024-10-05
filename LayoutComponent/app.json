@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "LayoutComponent",
+    "slug": "LayoutComponent",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "4ddb1172-cbc2-4d9b-bbc5-b4e49dfbd9f9"
+      }
+    }
+  }
+}
